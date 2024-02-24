@@ -46,9 +46,17 @@
 
 - [「渊龙Sec安全团队」](https://www.aabyss.cn/)相关站群所受到和捕获的攻击
 - 朋友提交给我的，他们的网站所遭到攻击的威胁情报
+- Github其他项目提供的可靠威胁情报（需要研判）
 - 期待屏幕前的各位师傅参与本计划，欢迎给我们提交PR提供新的威胁情报🥳
 
-由衷感谢每一位支持「国内恶意IP收集封禁计划」的师傅们！🥰
+**由衷感谢每一位支持「国内恶意IP收集封禁计划」的师傅们！🥰**
+
+**我还写了一个开源项目，可以从大量IP中筛选出指定国家归属的IP：[https://github.com/AabyssZG/IP-Where](https://github.com/AabyssZG/IP-Where)**
+
+感谢以下开源项目对本项目的威胁情报支持：
+
+- [ohyeah521/synology_deny-ip-list](https://github.com/ohyeah521/synology_deny-ip-list)
+
 
 ## 🐉3# 防护总体思路
 
